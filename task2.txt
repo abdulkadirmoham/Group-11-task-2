@@ -1,6 +1,4 @@
 Poem
-<<<<<<< HEAD
-=======
 Roses are red
 Violets are blue
->>>>>>> ff67672b218c1e5d9ca7a8a91a39a05548627b0c
+
